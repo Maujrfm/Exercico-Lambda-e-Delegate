@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio Fixacao Lambda - Delegate/1.0.0": {
+        "runtime": {
+          "Exercicio Fixacao Lambda - Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio Fixacao Lambda - Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.exe
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.deps.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.runtimeconfig.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.runtimeconfig.dev.json
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\ref\Exercicio Fixacao Lambda - Delegate.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\bin\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.csproj.AssemblyReference.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.AssemblyInfoInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.AssemblyInfo.cs
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\ref\Exercicio Fixacao Lambda - Delegate.dll
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.pdb
+F:\ws-vs2019\Projetos\Exercicio Fixacao Lambda - Delegate\Exercicio Fixacao Lambda - Delegate\obj\Debug\net5.0\Exercicio Fixacao Lambda - Delegate.genruntimeconfig.cache
